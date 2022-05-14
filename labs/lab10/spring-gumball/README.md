@@ -4,11 +4,12 @@
 ## CI Workflow
 
 For the examination, we need to pull the spring-gumball from the professor's repository (Lab 10) into the personal GitHub Repo as public.
-   https://github.com/paulnguyen/cmpe172/tree/main/labs/lab10/spring-gumball
+      professor's spring-gumball Repo: https://github.com/paulnguyen/cmpe172/tree/main/labs/lab10/spring-gumball
+      Personal Repo: https://github.com/jeongseungoh/spring-gumball
    
 ![Picture3](https://user-images.githubusercontent.com/75586376/168411286-cebd0b66-be90-410e-9f1c-256debdd92d9.jpg)
 
-After creating the repository into the personal Repo, we set up the building tool to Gradle and JDK 11. (https://github.com/jeongseungoh/spring-gumball)
+After creating the repository into the personal Repo, we set up the building tool to Gradle and JDK 11. 
 ![Picture1](https://user-images.githubusercontent.com/75586376/168411275-530c6fb1-6b6f-4921-b287-8ad22b625998.jpg)
 
 Then, we create the "main.yml" file which controls the CI of JAVA with Gradle into the workflows.
