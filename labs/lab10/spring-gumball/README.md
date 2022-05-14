@@ -4,6 +4,7 @@
 ## CI Workflow
 
 For the examination, we need to pull the spring-gumball from the professor's repository (Lab 10) into the personal GitHub Repo as public.
+      
       professor's spring-gumball Repo: https://github.com/paulnguyen/cmpe172/tree/main/labs/lab10/spring-gumball
       Personal Repo: https://github.com/jeongseungoh/spring-gumball
    
